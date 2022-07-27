@@ -1,0 +1,17 @@
+{
+  "name": "apiusercours",
+  "version": "1.0.0",
+  "description": "api gestion utilisateur",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "author": "noura aboubakr",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.4.3",
+    "twig": "^1.15.4"
+  }
+}
